@@ -20,3 +20,4 @@ class Cashier:
         elif coins > cost:
             change = round(coins - cost, 2)
             print("Here is your change $" + str(coins - cost) + ".")
+            return True
