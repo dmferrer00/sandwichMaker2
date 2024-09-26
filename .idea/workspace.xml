@@ -7,7 +7,7 @@
     <list default="true" id="9806b564-0520-45a1-9977-cf3553ebb18a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../sandwichMaker/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sandwichMaker/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cashier.py" beforeDir="false" afterPath="$PROJECT_DIR$/cashier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.cashier.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",

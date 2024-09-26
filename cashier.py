@@ -17,7 +17,7 @@ class Cashier:
             print("Sorry, that’s not enough money. Money refunded.")
             print("You need " + str(cost - coins) + " more." )
             return False
-        elif coins > cost:
+        else:
             change = round(coins - cost, 2)
             print("Here is your change $" + str(coins - cost) + ".")
             return True
