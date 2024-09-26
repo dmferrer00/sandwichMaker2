@@ -15,7 +15,7 @@ def main():
             exit()
         if choice == "report":
             print(resources)
-        elif choice in recipes:
+        elif choice == recipes["small", "medium", "large"]:
             sandwich = recipes[choice]
             if sandwich_maker_instance.check_resources(sandwich['ingredients']):
                 coins_inserted = cashier_instance.process_coins()
